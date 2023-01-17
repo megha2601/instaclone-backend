@@ -4,7 +4,7 @@
 
 Instagram clone using MERN stack
 
-This is the backend repo built with Express and MongoDB. If you looking for the frontend repo, [click here](https://github.com/manikandanraji/instaclone-frontend)
+This is the backend repo built with Express and MongoDB. If you looking for the frontend repo, [click here](https://github.com/megha2601/instaclone-frontend)
 
 ## Running Locally
 
